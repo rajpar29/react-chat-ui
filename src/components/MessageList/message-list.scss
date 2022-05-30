@@ -1,0 +1,9 @@
+.message-card {
+    padding: 16px;
+    margin-bottom: 16px;
+    width: fit-content;
+
+    &:last-child{
+        border-radius: 4px 24px 24px 24px;
+    }
+}
